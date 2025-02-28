@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient(to right, #D9D0DE, #BC8DA0);
+    background-size: 100%;
+}
+
+
+.container-fluid{
+	background-color:rgba(0, 0, 0, .6);
+	margin-top:100px;
+	margin-bottom:100px;
+
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.card{
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	background-color:#BC8DA0;
+	font-family:heiti sc;
+	color:white;
+	border-color:lightgray;
+}
+
+.form_button{
+	margin:20px;
+	background-color: #A04668;
+	font-family:heiti sc;
+	color:white;
+}
+
+input{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+select{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+	
+}
+
+img{
+	width:350px;
+	margin:10px;
+}
+
+h3{
+	font-family:impact;
+}
+
+h4{
+	font-family:heiti sc;
+}
